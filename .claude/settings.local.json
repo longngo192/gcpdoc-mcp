@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run build:*)",
+      "Bash(node test.js:*)",
+      "Bash(node test-functions.js:*)",
+      "Bash(node test-mcp.js:*)",
+      "Bash(node test-search.js:*)",
+      "Bash(node test-full.js:*)",
+      "Bash(node:*)"
+    ]
+  }
+}
