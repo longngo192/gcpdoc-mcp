@@ -69,8 +69,8 @@ An MCP (Model Context Protocol) server that provides AI assistants with access t
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/google-cloud-docs-mcp.git
-cd google-cloud-docs-mcp
+git clone https://github.com/longngo192/gcpdoc-mcp
+cd gcpdoc-mcp
 
 # Install dependencies
 npm install
